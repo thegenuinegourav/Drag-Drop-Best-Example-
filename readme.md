@@ -1,0 +1,1 @@
+Android App which tests general Drag and Drop Example (that are used by almost all apps) . If it is helpful to you then follow me (you can give it a star too), I will make some more useful standard codes.. Happy Coding :)

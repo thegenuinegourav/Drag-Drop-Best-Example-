@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="com.example.sourabh.dragdropexample.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Place my tutorials skills in your order of preference"
+        android:textSize="25sp"
+        android:padding="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Github Codes"
+        android:layout_margin="10dp"
+        android:textSize="35sp"
+        android:background="@android:color/holo_blue_dark"
+        android:id="@+id/text1"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Youtube Videos"
+        android:layout_margin="10dp"
+        android:textSize="35sp"
+        android:id="@+id/text2"
+        android:background="@android:color/holo_blue_dark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Presentation"
+        android:layout_margin="10dp"
+        android:textSize="35sp"
+        android:id="@+id/text3"
+        android:background="@android:color/holo_blue_dark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Excellent"
+        android:layout_margin="10dp"
+        android:textSize="35sp"
+        android:id="@+id/text4"
+        android:background="@android:color/holo_orange_light"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Good"
+        android:layout_margin="10dp"
+        android:textSize="35sp"
+        android:id="@+id/text5"
+        android:background="@android:color/holo_orange_light"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Satisfactory"
+        android:layout_margin="10dp"
+        android:textSize="35sp"
+        android:id="@+id/text6"
+        android:background="@android:color/holo_orange_light"/>
+
+
+</LinearLayout>
