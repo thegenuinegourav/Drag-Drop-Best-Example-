@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
 
             //update the text and color in the target view to reflect the data being dropped
             dropTarget.setText(dropped.getText());
-            dropped.setBackgroundColor(Color.BLUE);
+            dropTarget.setBackgroundColor(Color.BLUE);
         }
         return true;
     }
